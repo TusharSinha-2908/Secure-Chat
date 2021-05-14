@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable\\notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu May 13 18:05:54 IST 2021
+base.0=C\:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

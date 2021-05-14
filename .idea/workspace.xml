@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b9fd387-a2f4-41fe-9de3-0412df68fa0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rtZlJyc8wu0bqzzyY4vIFB0Vkg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/flutter_01.png" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9fd387-a2f4-41fe-9de3-0412df68fa0e" name="Default Changelist" comment="" />
+      <created>1619797495630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619797495630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="100" width="811" height="487" key="DiffContextDialog" timestamp="1620759319958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="811" height="487" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1620759319958" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1620759337472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1620759337472" />
+    <state width="1236" height="196" key="GridCell.Tab.0.bottom" timestamp="1620913987157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="196" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620913987157" />
+    <state width="1236" height="196" key="GridCell.Tab.0.center" timestamp="1620913987157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="196" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620913987157" />
+    <state width="1236" height="196" key="GridCell.Tab.0.left" timestamp="1620913987157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="196" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620913987157" />
+    <state width="1236" height="196" key="GridCell.Tab.0.right" timestamp="1620913987157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="196" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620913987157" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1620759245447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620759245447" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1620992109301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1620992109301" />
+    <state x="159" y="154" key="run.anything.popup" timestamp="1620755628199">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="159" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1620755628199" />
+  </component>
+</project>

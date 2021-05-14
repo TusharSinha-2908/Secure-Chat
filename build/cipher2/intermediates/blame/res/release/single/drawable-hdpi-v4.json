@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\tusha\\AndroidStudioProjects\\Secure Chat\\build\\cipher2\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\6293447f14c8a30761ce95a3d2eb571f\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]
